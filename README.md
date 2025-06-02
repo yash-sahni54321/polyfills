@@ -238,8 +238,13 @@ This project is licensed under the MIT License.
 
 If you found this helpful, please give the repo a ⭐️ and follow me for more awesome content!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Sahni-blue?logo=linkedin)](https://www.linkedin.com/in/yash-sahni-42b0731b0/)
-[![GitHub](https://img.shields.io/badge/GitHub-yash--sahni54321-333?logo=github)](https://github.com/yash-sahni54321)
+<a href="https://www.linkedin.com/in/yash-sahni-42b0731b0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Sahni-blue?logo=linkedin" alt="LinkedIn Badge" />
+</a>
+
+<a href="https://github.com/yash-sahni54321" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-yash--sahni54321-333?logo=github" alt="GitHub Badge" />
+</a>
 
 ---
 
