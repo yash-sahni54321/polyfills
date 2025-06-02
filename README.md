@@ -234,6 +234,13 @@ This project is licensed under the MIT License.
 
 ---
 
-## ⭐️ Support
+## 🙌 Support & Follow
 
-If you find this project helpful, please give it a ⭐️ and share it with others preparing for frontend interviews!
+If you found this helpful, please give the repo a ⭐️ and follow me for more awesome content!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Sahni-blue?logo=linkedin)](https://www.linkedin.com/in/yash-sahni-42b0731b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-yash--sahni54321-333?logo=github)](https://github.com/yash-sahni54321)
+
+---
+
+Happy Coding! 💻🔥
