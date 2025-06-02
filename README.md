@@ -17,6 +17,22 @@ Writing polyfills helps reinforce:
 
 ## 📦 Included Polyfills
 
+### `map` — `polyfillForMap`
+
+```js
+function polyfillForMap(arr, fn) {
+  if (!Array.isArray(arr)) {
+    throw new Error("myMap takes an array only");
+  }
+  let res = [];
+  for (let i = 0; i < arr.length; i++) {
+    res[i] = fn(arr[i], i);
+  }
+  return res;
+}
+```
+
+---
 ### `filter` — `polyfillForFilter`
 
 ```js
@@ -32,7 +48,21 @@ function polyfillForFilter(arr, fn) {
 ```
 
 ---
+### `forEach` — `polyfillForForEach`
 
+```js
+function polyfillForEach(arr, fn) {
+  if (!Array.isArray(arr)) {
+    throw new Error("myForEach takes an array only");
+  }
+  for (let i = 0; i < arr.length; i++) {
+    fn(arr[i], i);
+  }
+  return undefined;
+}
+```
+
+---
 ### `reduce` — `polyfillForReduce`
 
 ```js
@@ -184,7 +214,7 @@ function throttle(fn, delay) {
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/js-polyfills.git
+git clone https://github.com/yash-sahni54321/polyfills.git
 cd js-polyfills
 ```
 
